@@ -67,6 +67,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 ._流程形状 {
 }
 ._连接线 {
@@ -87,6 +91,9 @@
   line-height:normal;
 }
 .image {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._形状1 {
 }
